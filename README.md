@@ -1,4 +1,4 @@
-👋 Hi, I am Deepesh Kurmi currently pursuing B.Tech.(2018 - 2022) in Computer Science and Engineering from IIIT Nagpur 🏬. I have more interest in Software Development Field.  I am 👀 seeking internship opportunities in the Software Engineer field.
+👋 Hi, I am Deepesh Kurmi from Bhopal Madhya Pradesh. Currently I am pursuing B.Tech.(2018 - 2022) in Computer Science and Engineering from IIIT Nagpur 🏬.
 <hr>
 </br>
 <b>SKILLS</b></br>
