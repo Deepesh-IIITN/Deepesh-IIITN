@@ -10,6 +10,14 @@
 • Databases : Mysql, MongoDB, Mongoose</br>
 • Operating systems : Windows, Linux</br>
 <hr>
+
+<b>ACHIEVEMENTS</b></br>
+• CodeChef:- Five star (2028 rating) on Codechef. (https://www.codechef.com/users/tacaz) </br>
+• Google Hash Code 2021:- Ranked 3891 in qualification round. (https://drive.google.com/file/d/1UVyCnxyT4xyq5qc1ad6IxrKZxsnxM2Hs/view) </br>
+• Coding Ninjas (Code Kaze’21):- Ranked 1431 in qualification round. (https://drive.google.com/file/d/1RbtkkQE_YIfA4Gd2Fe34Y-NW9MvRjVoS/view) </br>
+• Google Kick Start 2020 Round-G:- Ranked 1813 th. (https://drive.google.com/file/d/1ArWQZCoVHJ_-bgr9bz_hHuqZ0zXggCoE/view) </br>
+<hr>
+
 📫 How to reach me :  deekurmi2018@gmail.com
 
 <!---
