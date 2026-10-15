@@ -1,5 +1,7 @@
+<!---
 👋 Hi, I am Deepesh Kurmi from Bhopal Madhya Pradesh. Currently I am pursuing B.Tech.(2018 - 2022) in Computer Science and Engineering from IIIT Nagpur 🏬.
 <hr>
+--->
 </br>
 <b>SKILLS</b></br>
 • ML : Regression models, Classification models</br>
