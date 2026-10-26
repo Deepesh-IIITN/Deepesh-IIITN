@@ -19,11 +19,3 @@
 • Coding Ninjas (Code Kaze’21):- Ranked 1431 in qualification round. (https://drive.google.com/file/d/1RbtkkQE_YIfA4Gd2Fe34Y-NW9MvRjVoS/view) </br>
 • Google Kick Start 2020 Round-G:- Ranked 1813 th. (https://drive.google.com/file/d/1ArWQZCoVHJ_-bgr9bz_hHuqZ0zXggCoE/view) </br>
 <hr>
-
-<!---
-📫 How to reach me :  deekurmi2018@gmail.com
-
-
-Deepesh-IIITN/Deepesh-IIITN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
